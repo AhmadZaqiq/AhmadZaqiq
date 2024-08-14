@@ -1,10 +1,12 @@
-### Hi there 👋, Ahmad Zaqiq
-#### Developer
+
 ![Developer](https://github.com/AhmadZaqiq/AhmadZaqiq/blob/main/Me.png)
+
+# Ahmad Zaqiq
+#### Developer
 
 My name is Ahmad Zaqiq, and I'm from Palestine. I am currently working as a Computer Application Developer while pursuing a degree in Computer Systems Engineering. I am deeply committed to continuous learning and skill development, with the goal of becoming a proficient Full-Stack Developer.
 
-Skills: .NET Framework / C++ / C# / OOP
+##Skills: .NET Framework / C++ / C# / OOP
 
 - 🌱 I’m currently learning .NET Framework 
 
