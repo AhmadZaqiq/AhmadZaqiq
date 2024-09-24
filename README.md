@@ -4,7 +4,7 @@
 # Ahmad Zaqiq
 #### Development and Coding
 
-My name is Ahmad Zaqiq, and I'm from Palestine. I am currently working as a Computer Application Developer while pursuing a degree in Computer Systems Engineering. I am deeply committed to continuous learning and skill development, with the goal of becoming a proficient Full-Stack Developer.
+My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skills in backend development using C# and the .NET Framework for desktop applications while pursuing a degree in Computer Systems Engineering, with a strong commitment to continuous professional growth.
 
 ## Skills:
  .NET Framework / C++ / C# / OOP
