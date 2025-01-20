@@ -1,5 +1,5 @@
 
-![Hi There 🙆‍♂️ I'm Ahmad Zaqiq](https://readme-typing-svg.herokuapp.com/?lines=Hi+There+🙆‍♂️+I'm+Ahmad+Zaqiq&font=Fira+Code&center=true&width=30&height=60&duration=350&color=00BFFF)
+![Hi There 🙆‍♂️ I'm Ahmad Zaqiq](https://readme-typing-svg.herokuapp.com/?lines=Hi+There+🙆‍♂️+I'm+Ahmad+Zaqiq&font=Fira+Code&center=true&width=2400&height=400&duration=3500&color=00BFFF)
 
 # Ahmad Zaqiq
 #### Development and Coding
