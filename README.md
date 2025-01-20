@@ -26,7 +26,7 @@ My name is Ahmad Zaqiq, and I'm from Palestine 🇵🇸. I am currently enhancin
 ## Contact Me 📱:
 [![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/AhmadZaqiq) GitHub  
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/ahmadjr) Discord
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/) LinkedIn  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/). LinkedIn  
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/4.ahmad_awad.4/) Instagram  
 [![Twitter](https://img.icons8.com/ios/48/000000/x.png)](https://twitter.com/XAhmadJRX) Twitter  
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/ahmad0599132052) Facebook  
