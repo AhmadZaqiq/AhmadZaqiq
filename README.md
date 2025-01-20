@@ -12,11 +12,8 @@ My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skil
  I’m currently learning .NET Framework 
 
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/AhmadZaqiq)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/4.ahmad_awad.4/)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/XAhmadJRX)
-
-
-
+[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/AhmadZaqiq)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/4.ahmad_awad.4/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/XAhmadJRX)
 
