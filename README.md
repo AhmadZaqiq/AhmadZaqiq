@@ -1,4 +1,4 @@
-![Hi There 🙆‍♂️ I'm Ahmad Zaqiq](https://readme-typing-svg.herokuapp.com/?lines=Hi+There+🙆‍♂️+I'm+Ahmad+Zaqiq&font=Fira+Code&center=true&width=600&height=1200&duration=3500&color=00BFFF)
+![Image Description](https://github.com/AhmadZaqiq/AhmadZaqiq/blob/main/Greeting.png?raw=true)
 
 # Ahmad Zaqiq
 #### Development and Coding
