@@ -12,17 +12,10 @@ My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skil
  I’m currently learning .NET Framework 
 
 
-<a href="https://github.com/AhmadZaqiq" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/github.svg" alt="github" height="40" style="color: #000;"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/linkedin.svg" alt="linkedin" height="40" style="color: #0077B5;"/>
-</a>
-<a href="https://www.instagram.com/4.ahmad_awad.4/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/instagram.svg" alt="instagram" height="40" style="color: #C13584;"/>
-</a>
-<a href="https://twitter.com/XAhmadJRX" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/twitter.svg" alt="twitter" height="40" style="color: #1DA1F2;"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadZaqiq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4.ahmad_awad.4/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XAhmadJRX)
+
 
 
