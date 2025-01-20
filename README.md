@@ -12,5 +12,17 @@ My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skil
  I’m currently learning .NET Framework 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmadZaqiq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/4.ahmad_awad.4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/XAhmadJRX)  
+<a href="https://github.com/AhmadZaqiq" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/github.svg" alt="github" height="40" style="color: #000;"/>
+</a>
+<a href="https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/linkedin.svg" alt="linkedin" height="40" style="color: #0077B5;"/>
+</a>
+<a href="https://www.instagram.com/4.ahmad_awad.4/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/instagram.svg" alt="instagram" height="40" style="color: #C13584;"/>
+</a>
+<a href="https://twitter.com/XAhmadJRX" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/twitter.svg" alt="twitter" height="40" style="color: #1DA1F2;"/>
+</a>
+
 
