@@ -18,6 +18,8 @@ My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skil
 
 ![Image Description](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AhmadZaqiq&show_icons=true&locale=en&layout=compact&theme=onedark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadZaqiq&show_icons=true&theme=onedark)
 
 
