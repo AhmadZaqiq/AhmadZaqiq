@@ -12,10 +12,11 @@ My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skil
  I’m currently learning .NET Framework 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadZaqiq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4.ahmad_awad.4/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XAhmadJRX)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/AhmadZaqiq)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/ahmad-zaqiq-23b2a5225/)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/4.ahmad_awad.4/)
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/XAhmadJRX)
+
 
 
 
