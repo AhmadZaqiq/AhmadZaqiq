@@ -1,5 +1,5 @@
 
-![Developer](https://github.com/AhmadZaqiq/AhmadZaqiq/blob/main/Ahmad.png)
+![Hi There, I'm Ahmad Zaqiq](https://readme-typing-svg.herokuapp.com/?lines=Hi+There,+I%27m+Ahmad+Zaqiq&font=Fira+Code&center=true&width=600&height=100&duration=3500&color=F7AB3D)
 
 # Ahmad Zaqiq
 #### Development and Coding
