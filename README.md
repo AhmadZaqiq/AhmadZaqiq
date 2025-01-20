@@ -13,7 +13,8 @@ My name is Ahmad Zaqiq, and I'm from Palestine 🇵🇸. I am currently enhancin
   ![OOP](https://img.icons8.com/color/48/000000/flow-chart.png) OOP
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 
-# I’m currently learning backend development using C# with .NET Framework.
+## Currently Learning 📚:
+### I’m currently learning backend development using C# with .NET Framework.
 
 ![Image Description](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
