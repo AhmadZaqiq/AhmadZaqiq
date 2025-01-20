@@ -6,7 +6,12 @@
 My name is Ahmad Zaqiq, and I'm from Palestine. I am currently enhancing my skills in backend development using C# and the .NET Framework for desktop applications while pursuing a degree in Computer Systems Engineering, with a strong commitment to continuous professional growth.
 
 ## Skills:
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![OOP](https://img.icons8.com/color/48/000000/flow-chart.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  ![DotNet](https://img.icons8.com/color/48/000000/net-framework.png)
+  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+  ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+  ![OOP](https://img.icons8.com/color/48/000000/flow-chart.png)
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 I’m currently learning .NET Framework 
 
