@@ -12,6 +12,7 @@
   ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) SQL Server
   ![OOP](https://img.icons8.com/color/48/000000/flow-chart.png) OOP
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+  ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
 ## Currently Learning 📚:
 ### I’m currently learning backend development using C# with .NET Framework.
