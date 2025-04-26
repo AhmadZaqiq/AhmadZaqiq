@@ -15,6 +15,7 @@
   ![Python](https://img.icons8.com/color/48/000000/python.png) Python
   ![DotNet](https://img.icons8.com/color/48/000000/net-framework.png) .NET
   ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+  ![GitHub](https://img.icons8.com/ios/50/000000/github.png) GitHub
 
 ## Currently Learning 📚:
 ### I’m currently learning backend development using C# with .NET Framework.
