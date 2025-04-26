@@ -12,6 +12,8 @@
   ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) SQL Server
   ![OOP](https://img.icons8.com/color/48/000000/flow-chart.png) OOP
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+  ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  ![DotNet](https://img.icons8.com/color/48/000000/net-framework.png) .NET
   ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
 ## Currently Learning 📚:
